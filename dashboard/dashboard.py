@@ -52,9 +52,9 @@ with col1:
     ax.tick_params(axis='y', labelsize=50)
     st.pyplot(fig)
 
-    textcol1 = '''Based on documentation from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset, the number 1 indicates a working day or weekday, and 0 represents weekends and holidays.
-    '''
-    st.markdown(textcol1)
+    # textcol1 = '''Based on documentation from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset, the number 1 indicates a working day or weekday, and 0 represents weekends and holidays.
+    # '''
+    # st.markdown(textcol1)
 
 
 with col2:
@@ -77,13 +77,13 @@ with col2:
     ax.tick_params(axis='y', labelsize=50)
     st.pyplot(fig)
 
-    textcol2 = '''Based on documentation from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset there are 4 weather categories, here is the explanation:
+    # textcol2 = '''Based on documentation from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset there are 4 weather categories, here is the explanation:
 
-    1: Clear, Few clouds, Partly cloudy, Partly cloudy
-    2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
-    3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
-    4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
-    '''
-    st.markdown(textcol2)
+    # 1: Clear, Few clouds, Partly cloudy, Partly cloudy
+    # 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+    # 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+    # 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
+    # '''
+    # st.markdown(textcol2)
 
 st.markdown("Created by mluthfifrd")
