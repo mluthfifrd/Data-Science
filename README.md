@@ -15,4 +15,4 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## Open streamlit online
-<a href="https://mluthfifrd-data-science.streamlit.app/" target="_blank">Analyst Data Bike Sharing</a>
+[Analyst Data Bike Sharing](https://mluthfifrd-data-science.streamlit.app/)
