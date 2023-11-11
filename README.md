@@ -16,3 +16,6 @@ streamlit run dashboard/dashboard.py
 
 ## Open streamlit online
 [Analyst Data Bike Sharing](https://mluthfifrd-data-science.streamlit.app/)
+
+
+![Streamlit](https://github.com/mluthfifrd/Data-Science/assets/82927435/63912968-aaa4-4de5-9744-6d51ba9b4ee8)
